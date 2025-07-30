@@ -4,11 +4,11 @@
 ---
 
 - 🎓 I’m currently studying programming with **Oracle Next Education (ONE)** and **Alura LATAM**  
-- 🌱 I’m learning: **JavaScript**, **Node.js**, **Docker**, **Python**, **GO**, **ScyllaDB**  
+- 🌱 I’m learning: **JavaScript**, **Node.js**, **Docker**, **Python**, **GoLang**, **ScyllaDB**  
 - 💬 Ask me about: **HTML, CSS, JavaScript, React, Git, Linux, MSSQL, Power BI, Windows Server, Docker**  
 - 📫 How to reach me: **luis09d@proton.me**  
 - 🌐 Portfolio: [ld9.dev/cv](https://ld9.dev/cv)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis09d/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis09d/)  
 
 ---
 
