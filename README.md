@@ -39,9 +39,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luis09d/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img align="left" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:luis09d@proton.me" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="protonmail" />
+    <img align="rigth" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="protonmail" />
   </a>
 </p>
